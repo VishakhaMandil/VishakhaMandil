@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishakhaMandil
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning python and django 
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Machine Learning. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 
 
 <!---
