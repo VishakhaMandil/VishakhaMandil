@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishakhaMandil
-- 👀 I’m interested in Machine Learning. 
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on Machine Learning projects.
+- 👀 I’m interested in Web development, Machine Learning,Probelm Solving. 
+- 🌱 I'm currently pursuing Btech in CSE 
+
 
 
 <!---
