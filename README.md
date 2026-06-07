@@ -1,14 +1,15 @@
 
 
-##👋 Hi there, I’m @vishakhaMandil21
+## 👋 Hi there, I'm Vishakha Mandil
 
-🔭 I’m currently working to develop full stack Website for my own business
+💼 Software Engineer @ LTIMindtree
 <br>
-👀 I’m interested in Problem Solving, Web Development & Machine Learning.
+💻 Skilled in Java, Spring Boot, Angular, REST APIs, and Full Stack Development
 <br>
-🌱 I’m currently learning Backend Development.
+🚀 Passionate about building scalable applications and solving real-world problems
 <br>
-📫 How to reach me: vishakhamandil@gmail.com.
+🌱 Continuously learning Software Architecture, Cloud Technologies, and Backend Development
 <br>
-⚡ Fun fact: I Love to Learn
-
+📫 How to reach me: vishakhamandil@gmail.com
+<br>
+⚡ Fun fact: I enjoy turning ideas into working products and learning new technologies
